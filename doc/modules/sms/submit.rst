@@ -7,5 +7,5 @@ Classes
 --------
 
 .. autoclass:: SmsSubmit
-   :show-inheritance:
-   :members:
+:show-inheritance:
+       :members:

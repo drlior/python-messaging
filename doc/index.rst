@@ -4,11 +4,11 @@ Welcome to python-messaging's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+:maxdepth: 2
 
-   tutorial/sms
-   tutorial/mms
-   glossary
+       tutorial/sms
+       tutorial/mms
+       glossary
 
 Indices and tables
 ==================
@@ -19,10 +19,10 @@ Indices and tables
 * :ref:`search`
 
 .. toctree::
-   :hidden:
-   :glob:
+:hidden:
+       :glob:
 
-   modules/*
-   modules/sms/*
-   modules/mms/*
+       modules/*
+       modules/sms/*
+       modules/mms/*
 

@@ -14,13 +14,13 @@ Classes
 --------
 
 .. autoclass:: DecodeError
-   :show-inheritance:
+:show-inheritance:
 
 .. autoclass:: EncodeError
-   :show-inheritance:
+:show-inheritance:
 
 .. autoclass:: Decoder
-   :members:
+:members:
 
 .. autoclass:: Encoder
-   :members:
+:members:

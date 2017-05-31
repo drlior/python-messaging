@@ -7,9 +7,9 @@ Classes
 --------
 
 .. autoclass:: MMSEncoder
-   :show-inheritance:
-   :members:
+:show-inheritance:
+       :members:
 
 .. autoclass:: MMSDecoder
-   :show-inheritance:
-   :members:
+:show-inheritance:
+       :members:

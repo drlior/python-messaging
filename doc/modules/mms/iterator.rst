@@ -7,4 +7,4 @@ Classes
 --------
 
 .. autoclass:: PreviewIterator
-   :members:
+:members:

@@ -7,4 +7,4 @@ Classes
 --------
 
 .. autoclass:: Pdu
-   :members:
+:members:

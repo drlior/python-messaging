@@ -7,7 +7,7 @@ Classes
 -------
 
 .. autoclass:: FixedOffset
-    :members:
+:members:
 
 
 Functions

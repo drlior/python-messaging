@@ -7,4 +7,4 @@ Classes
 --------
 
 .. autoclass:: SmsBase
-   :members:
+:members:

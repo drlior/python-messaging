@@ -7,10 +7,10 @@ Classes
 --------
 
 .. autoclass:: MMSMessage
-   :members:
+:members:
 
 .. autoclass:: MMSMessagePage
-   :members:
+:members:
 
 .. autoclass:: DataPart
-   :members:
+:members:

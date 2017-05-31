@@ -7,5 +7,5 @@ Classes
 --------
 
 .. autoclass:: SmsDeliver
-   :show-inheritance:
-   :members:
+:show-inheritance:
+       :members:
