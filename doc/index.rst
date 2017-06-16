@@ -22,7 +22,7 @@ Indices and tables
 :hidden:
        :glob:
 
-       modules/*
-       modules/sms/*
-       modules/mms/*
+           modules/*
+           modules/sms/*
+           modules/mms/*
 
